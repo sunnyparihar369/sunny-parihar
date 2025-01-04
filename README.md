@@ -1,6 +1,6 @@
 # Hi there, I'm Sunny Parihar! 👋
 
-🎓 B.Tech Metallurgy | NIT Bhopal  
+🎓 B.Tech | NIT Bhopal  
 🌟 Aspiring Software Developer | Web3 Enthusiast | Startup Explorer  
 
 ---
@@ -29,8 +29,8 @@
 ---
 
 ## 🚀 Let's Connect!  
-- **LinkedIn:** [Sunny Parihar](https://linkedin.com/in/your-profile)  
-- **Email:** sunny.parihar@example.com  
+- **LinkedIn:** [Sunny Parihar](https://linkedin.com/in/sunny-parihar)  
+- **Email:** pariharsunny55@gmail.com 
 - **Instagram:** [Animato Store](https://instagram.com/animato_store)
 
 ---
